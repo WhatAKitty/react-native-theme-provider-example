@@ -1,5 +1,7 @@
 # react-native-theme-provider-example
 
+![Preview](https://github.com/WhatAKitty/react-native-theme-provider-example/raw/master/toggle-theme.gif)
+
 ## Usage
 
 ```shell
